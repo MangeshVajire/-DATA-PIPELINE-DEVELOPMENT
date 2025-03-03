@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEEKS
 
-*MENTOR*
+*MENTOR*: NILA SANTOSH
 
 
 
@@ -24,3 +24,7 @@ The implementation includes three main methods: create_pipeline() for initializi
 The code demonstrates best practices in data preprocessing with proper documentation, clear method signatures, and example usage. It's designed to be modular and extensible, making it easy to integrate into larger data processing workflows. The implementation includes proper handling of feature names throughout the transformation process, ensuring traceability of features in the transformed data.
 
 The example usage section demonstrates practical application with sample data, showing how to handle missing values, scale numerical features, and encode categorical variables. The code is well-documented with docstrings and comments, making it easy for other developers to understand and use. Error handling is implemented to ensure proper pipeline initialization and usage sequence.
+
+
+OUTOUT :
+![Image](https://github.com/user-attachments/assets/11920f92-d064-4394-91a2-0c443fddfc66)
